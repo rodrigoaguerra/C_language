@@ -1,2 +1,2 @@
-# linguagem-C
+# C language
 A system with C language
